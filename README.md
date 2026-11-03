@@ -21,3 +21,13 @@ make
 
 # Clean up build artifacts
 make clean
+
+## Example
+
+```text
+❯ tls
+test.py
+user.s
+.
+..
+```
