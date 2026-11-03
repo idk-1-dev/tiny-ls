@@ -21,7 +21,7 @@ make
 
 # Clean up build artifacts
 make clean
-
+````
 ## Example
 
 ```text
